@@ -1,0 +1,3 @@
+Teks asli: bgus
+Teks setelah preprocessing: bagus
+Hasil sentimen: negative
