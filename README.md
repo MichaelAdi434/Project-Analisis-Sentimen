@@ -15,21 +15,6 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna 
 
 ***
 
-## 🚀 Instalasi dan Kebutuhan
-
-Untuk menjalankan proyek ini secara lokal, pastikan Anda telah menginstal Python dan kemudian instal semua dependensi yang diperlukan:
-
-1.  **Clone repositori:**
-    ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
-    ```
-2.  **Instal dependensi:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-***
 
 ## 🛠️ Langkah-langkah Pengerjaan
 
@@ -49,13 +34,4 @@ Model yang sudah dilatih kemudian digunakan untuk memprediksi sentimen pada data
 
 ***
 
-## 💡 Teknologi yang Digunakan
 
-Proyek ini menggunakan beberapa teknologi utama:
-
-* **Bahasa Pemrograman:** Python
-* **Data Scraping:** `google-play-scraper`
-* **Preprocessing/NLP:** `Sastrawi`, `pandas`, `numpy`, `scikit-learn`
-* **Pemodelan:** TensorFlow/Keras (terlihat dari output prediksi `1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step` di `Pelatihan_Model.ipynb`)
-
-***
