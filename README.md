@@ -10,8 +10,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna 
 | `ulasan_apk.csv` | Dataset **ulasan aplikasi** (mentah atau hasil *scraping*). |
 | `Pelatihan_Model.ipynb` | Notebook Jupyter yang berisi langkah-langkah **preprocessing data**, **pelatihan model** analisis sentimen (kemungkinan menggunakan TensorFlow/Keras berdasarkan *snippet*), dan evaluasi model. |
 | `hasil_prediksi.txt` | Contoh **hasil prediksi** sentimen dari model yang sudah dilatih. |
-| `requirements.txt` | Daftar **dependensi/pustaka** Python yang diperlukan untuk menjalankan proyek ini. |
-| `README.md` | Berkas informasi proyek ini. |
+| `requirements.txt` | Daftar **pustaka** Python yang diperlukan untuk menjalankan proyek ini. |
 
 ***
 
