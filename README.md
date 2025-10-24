@@ -1,10 +1,10 @@
 # Analisis Sentimen Ulasan Aplikasi SeaBank
 
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna dari aplikasi mobile SeaBank menggunakan Natural Language Processing (NLP) dan machine learning/deep learning.
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna dari aplikasi mobile SeaBank menggunakan algoritma machine learning dan deep learning.
 
 ## 📁 Struktur Proyek
 
-| File/Folder | Deskripsi |
+| File | Deskripsi |
 | :--- | :--- |
 | `Scraping_Data (1).ipynb` | Notebook Jupyter untuk proses **pengambilan data ulasan** dari Google Play Store. |
 | `ulasan_apk.csv` | Dataset **ulasan aplikasi** (mentah atau hasil *scraping*). |
